@@ -20,4 +20,4 @@ export function WinnerModal ({ winner, resetGame }) {
       </div>
     </section>
   )
-}
+} 
